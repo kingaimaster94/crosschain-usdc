@@ -1,0 +1,25 @@
+{
+  "name": "hardhat-project",
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy": "hardhat deploy",
+    "task": "npx hardhat"
+  },
+  "dependencies": {
+    "@axelar-network/axelar-cgp-solidity": "^4.3.0",
+    "@axelar-network/axelar-gmp-sdk-solidity": "^3.3.0",
+    "@axelar-network/axelarjs-sdk": "^0.11.0",
+    "@openzeppelin/contracts": "^4.7.3",
+    "cross-fetch": "^3.1.5",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers",
+    "@nomiclabs/hardhat-etherscan": "^3.1.0",
+    "@types/uuid": "^8.3.4",
+    "hardhat": "^2.11.1",
+    "hardhat-deploy": "^0.11.14",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.2"
+  }
+}

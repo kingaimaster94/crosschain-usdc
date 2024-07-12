@@ -1,0 +1,2 @@
+Added avalanche lp: https://testnet.snowtrace.io/tx/0xf2aa733673206138abf085916623fa9bac8a510d3c898dd009ed3272a94605a0
+Added moonbeam lp: https://moonbase.moonscan.io/tx/0xf2c78a839d27e4b48831c342ade2dd4dc133ac145a66d5d0b1ef9934f8651730
